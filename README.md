@@ -1,4 +1,4 @@
-# 💫 About Me: Hello I am Chakravarthy 
+# 💫 About Me: Hello I am CHAKRAVARTHY 
 🔭 I’m currently working on an E-commerce website project<br>🌱 I’m currently learning Backend-development
 
 
