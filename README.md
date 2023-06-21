@@ -1,4 +1,4 @@
-# 💫 Hello, I'm Chakravarthy!
+# 💫 Hello, I'm Chakravarthy !
 🔭 I’m currently working on Developing a web application for a client that involves creating both frontend and backend components, integrating APIs, and ensuring a smooth user experience.<br>👯 I’m looking to collaborate on Exciting open-source projects related to web development or any innovative projects where I can contribute my skills as a full-stack developer.<br>🤝 I’m seeking help Optimizing database queries and performance tuning in my current project. I'm also seeking guidance on implementing secure authentication and authorization mechanisms.<br>🌱 I’m currently learning: The latest JavaScript frameworks and libraries, such as React, to enhance my frontend development skills.<br>💬 Ask me about Anything related to web development, including HTML, CSS, JavaScript, backend technologies like Node.js, frontend frameworks like React, database management, or deployment strategies.<br>
 
 
