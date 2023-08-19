@@ -1,6 +1,6 @@
 #                                                                        <center>  Hello I'm Chakravarthy !</center>
-<center>Full Stack Developer</center>
-<hr>
+<center><h3>Full Stack Developer</h3></center>
+<br>
 🔭 I’m currently working on Developing a web application for a client that involves creating both frontend and backend components, integrating APIs, and ensuring a smooth user experience.<br><br>🌱 I’m learning The latest JavaScript frameworks and libraries, such as Next.js and TypeScript, to enhance my frontend development skills.<br><br>👯 I’m looking to collaborate on Exciting open-source projects related to web development or any innovative projects where I can contribute my skills as a full-stack developer.<br><br>🤝 I’m seeking help Optimizing database queries and performance tuning in my current project. I'm also seeking guidance on implementing secure authentication and authorization mechanisms
 
 
