@@ -6,18 +6,7 @@
 
 ###
 
-<div align="left">
-  <h2>Contact me</h2>
-  <a href="https://www.linkedin.com/in/chakravarthy-e-732569248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Chakravarthy-E.Chakravarthy-E&"  />
-</div>
 
 ###
 
@@ -28,7 +17,6 @@
 <p align="left">🔭 I’m currently working on Developing a web application for a client that involves creating both frontend and backend components, integrating APIs, and ensuring a smooth user experience.<br><br>🌱 I’m learning The latest JavaScript frameworks and libraries, such as Next.js and TypeScript, to enhance my frontend development skills.<br><br>👯 I’m looking to collaborate on Exciting open-source projects related to web development or any innovative projects where I can contribute my skills as a full-stack developer.<br><br>🤝 I’m seeking help Optimizing database queries and performance tuning in my current project. I'm also seeking guidance on implementing secure authentication and authorization mechanisms</p>
 
 ###
-
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
@@ -82,4 +70,15 @@
 <div align="center">
   <img height="0" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+<div align="left">
+  <h2>Contact me</h2>
+  <a href="https://www.linkedin.com/in/chakravarthy-e-732569248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Chakravarthy-E.Chakravarthy-E&"  />
+</div>
