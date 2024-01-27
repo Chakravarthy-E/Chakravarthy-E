@@ -8,13 +8,7 @@
 
 
 
-###
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<p align="left"><br>🌱 I’m learning The latest JavaScript frameworks and libraries, such as Next.js and TypeScript, to enhance my frontend development skills.<br><br>👯 I’m looking to collaborate on Exciting open-source projects related to web development or any innovative projects where I can contribute my skills as a full-stack developer.<br><br></p>
 
 ###
 <h2 align="left">🛠 Language and tools</h2>
