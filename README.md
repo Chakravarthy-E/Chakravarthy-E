@@ -1,7 +1,17 @@
 <h1 align="center">Hey there 👋 I'm Chakravarthy<br>Full Stack Developer</h1>
 
 ###
+<p>
+  
+  💌 Feel free to drop me an email at  <a href="chakravarthy.8328@gmail.com">Chakravarthy E</a >
+  <br  />
 
+👋🧑‍💼 Connect for a discussion at <a href="https://www.linkedin.com/in/chakravarthy-e-732569248/">LinkedIn </a >
+  <br  />
+🤝 Git collaborations at  <a href="https://github.com/Chakravarthy-E">GitHub </a >
+  <br  />
+
+</p>
 
 
 ###
