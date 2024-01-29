@@ -2,7 +2,7 @@
 
 ###
 <p>
-  💌 Feel free to drop me an email at  <a href="chakravarthy.8328@gmail.com">Chakravarthy E</a >
+  💌 Feel free to drop me an email at  <a href="chakravarthy.8328@gmail.com">chakravarthy.8328@gmail.com</a >
   <br />
 🧑‍💼 Connect for a discussion at <a href="https://www.linkedin.com/in/chakravarthy-e-732569248/">LinkedIn </a >
   <br  />
