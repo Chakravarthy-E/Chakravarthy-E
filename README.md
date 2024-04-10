@@ -1,33 +1,31 @@
-<h4>Hello there 👋</p>
+# Hello there! 👋
 
-<p>
-  ✉️ Feel free to drop me an email at  <a href="chakravarthy.8328@gmail.com">chakravarthy.8328@gmail.com</a >
-  <br />
-👋 Connect for a discussion at <a href="https://www.linkedin.com/in/chakravarthy-e-732569248/">LinkedIn </a >
-  <br  />
-🤝 Git collaborations at  <a href="https://github.com/Chakravarthy-E">GitHub </a >
-  <br  />
-  🔩 Technical Skills: React.js | Next.js | JavaScript | TypeScript | ES6 | HTML | CSS | Node.js | Express.js | MongoDB | Bootstrap | TailwindCSS | Git | Postman
+Feel free to reach out to me via email at [chakravarthy.8328@gmail.com](mailto:chakravarthy.8328@gmail.com).
 
-</p>
+Let's connect on [LinkedIn](https://www.linkedin.com/in/chakravarthy-e-732569248/) for discussions.
 
+Find my projects and collaborate with me on [GitHub](https://github.com/Chakravarthy-E).
 
-###
-###
+## 🔧 Technical Skills
+- React.js | Next.js | JavaScript | TypeScript | ES6
+- HTML | CSS | Bootstrap | TailwindCSS
+- Node.js | Express.js | MongoDB
+- Git | Postman
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 🔥 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chakravarthy-E&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Chakravarthy-E&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img height="0" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://i.imgflip.com/65efzo.gif" alt="GitHub activity" />
 </div>
+
 
 
 ###
