@@ -17,12 +17,10 @@ Find my projects and collaborate with me on [GitHub](https://github.com/Chakrava
 ## 🔥 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chakravarthy-E&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Chakravarthy-E&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style="font-family: 'Arial', sans-serif;" />
 </div>
 
 ---
-
-
 
 ###
 
