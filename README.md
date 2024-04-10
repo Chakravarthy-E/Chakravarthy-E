@@ -22,10 +22,6 @@ Find my projects and collaborate with me on [GitHub](https://github.com/Chakrava
 
 ---
 
-<div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="GitHub activity" />
-</div>
-
 
 
 ###
