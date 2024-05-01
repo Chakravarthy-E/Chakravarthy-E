@@ -8,7 +8,7 @@
 <br />
 - 👨‍💻 All of my projects are available at <a href="https://chakravarthy.vercel.app">Portfolio</a>
 <br />
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1a__FicUKJQl1Hnjuj2RQ7IVv0Qar1zfwYGQpuN5WfzQ/edit?usp=drive_link">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1CIpz257t1qS6jtLN0E1EEj3F4Y4fc9AS/view?usp=sharing">Resume</a>
 
 <div> <a href="https://github.com/Chakravarthy-E" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:chakravarthy.8328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
