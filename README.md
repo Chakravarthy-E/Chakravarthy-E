@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Chakravarthy</h1>
-<h3 align="center">Crafting Web Experiences: A Journey through Next.js, React.js, TypeScript, and Tailwind CSS</h3>
+<h1 align="center">
+Hi, I'm Chakravarthy!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <img src="https://komarev.com/ghpvc/?username=Chakravarthy-E&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="chakravarthy-e" />
+<!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
+
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+<hr/>
+<samp>
+I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+</samp>
+
+## 🔥 Streak Stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashitanamdeo&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
+
+
+
+
 - 🌱 I’m currently learning React Native
 <br />
 - 💬 Ask me about Next.js, JavaScript, TypeScript, React.js, Node.js and Tailwind CSS
