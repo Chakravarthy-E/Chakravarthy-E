@@ -44,20 +44,6 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Chakravarthy-E.Chakravarthy-E&left_color=violet&left_text=Profile%20Views"  />
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://linkedin.com/in/chakravarthy-e" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="chakravarthy.8328@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
