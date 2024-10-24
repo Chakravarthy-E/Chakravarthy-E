@@ -1,6 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
 
 <p align="left">Hi, I’m Chakravarthy!<br>I’m a passionate Full Stack Developer with a love for building innovative solutions that bridge the gap between user experience and seamless functionality. Constantly learning and evolving, I thrive on turning complex challenges into intuitive digital products.</p>
 
